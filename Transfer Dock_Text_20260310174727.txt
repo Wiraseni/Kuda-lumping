@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sastro Budoyo Kuda Lumping</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+text-align:center;
+}
+
+header{
+background:black;
+color:white;
+padding:20px;
+}
+
+section{
+padding:20px;
+}
+
+img{
+max-width:200px;
+margin-top:10px;
+}
+
+footer{
+background:#222;
+color:white;
+padding:10px;
+margin-top:20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Sastro Budoyo Kuda Lumping</h1>
+<p>Kesenian Tradisional Jawa</p>
+</header>
+
+<section>
+<h2>Tentang Kami</h2>
+<p>
+Sastro Budoyo adalah kelompok kesenian kuda lumping yang melestarikan budaya tradisional Jawa.
+Pertunjukan kami menampilkan tarian kuda lumping, musik gamelan, dan atraksi budaya yang menarik.
+</p>
+</section>
+
+<section>
+<h2>Galeri</h2>
+<p>Dokumentasi pertunjukan kuda lumping.</p>
+<img src="logo.png">
+</section>
+
+<section>
+<h2>Kontak</h2>
+<p>Hubungi kami untuk acara hiburan, festival budaya, dan acara lainnya.</p>
+</section>
+
+<footer>
+<p>© 2026 Sastro Budoyo Kuda Lumping</p>
+</footer>
+
+</body>
+</html>
